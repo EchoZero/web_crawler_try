@@ -1,0 +1,58 @@
+How an Army of Ocean Farmers Are Starting an Economic Revolution
+https://medium.com/invironment/an-army-of-ocean-farmers-on-the-frontlines-of-the-blue-green-economic-revolution-d5ae171285a3
+Introducing React Storybook
+https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2
+AP Style alert: Don’t capitalize internet and web any more
+http://www.poynter.org/2016/ap-style-change-alert-dont-capitalize-internet-and-web-any-more/404664/
+Dwarf Fortress' creator on how he's 42% towards simulating existence
+http://www.pcgamer.com/dwarf-fortress-creator-on-how-hes-42-towards-simulating-existence/#page-1
+Unintuitive Things I’ve Learned about Management
+https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b
+LumaFix64: Commodore 64 with less stripes
+http://biosrhythm.com/?p=1340
+The Tampon of the Future
+http://www.nytimes.com/2016/04/03/opinion/sunday/the-tampon-of-the-future.html
+Automatic 3Dification of Nintendo Games: The GlEnd() of Zelda
+https://www.youtube.com/watch?v=xDxjbXAqTPg
+How to Build Your Own Rogue GSM BTS for Fun and Profit
+https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/
+Rage Against the Finite-State Machines
+http://learnyousomeerlang.com/finite-state-machines
+How Safe Browsing Works in Firefox
+http://feeding.cloud.geek.nz/posts/how-safe-browsing-works-in-firefox/
+What It’s Like to Almost Get Executed
+https://www.themarshallproject.org/2016/03/31/what-it-s-like-to-almost-get-executed#.jTmiocXwQ
+Chrome Data Compression Proxy for Carriers and ISPs
+https://developer.chrome.com/multidevice/data-compression-for-isps
+British authorities demand encryption keys in case with “huge implications”
+https://theintercept.com/2016/04/01/british-authorities-demand-encryption-keys-in-closely-watched-case/
+Robin
+http://www.redditblog.com/2016/04/robin.html
+Solving the cash problems from self-funding rapid growth
+http://nathanbarry.com/cash/
+NASA Satellites Unlock Secret to Northern India's Vanishing Water (2009)
+http://www.nasa.gov/topics/earth/features/india_water.html
+Managed by Q, an On-Demand Start-Up, Raises $25M
+http://www.nytimes.com/2016/04/04/technology/managed-by-q-anon-demand-start-up-raises-25-million.html?_r=0
+Will minimum wage hikes lead to a huge boost in automation? Only if we're lucky
+http://www.vox.com/2016/4/2/11348148/minimum-wage-robots
+First YC Fellowship Virtual Demo Day
+http://blog.ycombinator.com/first-fellowship-virtual-demo-day
+Tmuxomatic: completely different tmux session manager
+https://github.com/oxidane/tmuxomatic
+How we built a hardware startup with two engineers and some free time
+http://techcrunch.com/2016/04/01/hardware-is-hard-how-we-built-a-hardware-startup-with-two-engineers-and-some-free-time/
+AI and the Future of Civilization
+https://www.edge.org/conversation/stephen_wolfram-ai-the-future-of-civilization
+Does Stress Speed Up Evolution?
+http://nautil.us/issue/34/adaptation/does-stress-speed-up-evolution
+A revised Lisp interpreter in Go
+http://www.oki-osk.jp/esc/golang/lisp4-en.html
+BCC: Dynamic Tracing Tools for Linux
+https://iovisor.github.io/bcc/
+Rosette: a solver-aided programming language that extends Racket
+http://emina.github.io/rosette/
+BOX-256: a tiny game about writing assembly code to pass the graphics tests
+http://juhakiili.com/box256/
+Johnson and Johnson Has a Baby Powder Problem
+http://www.bloomberg.com/features/2016-baby-powder-cancer-lawsuits/

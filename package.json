@@ -1,0 +1,13 @@
+{
+  "name": "webcrawler-js-try",
+  "version": "0.0.0",
+  "description": "A simple webcrawler written in JavaScript",
+  "main": "webcrawler.js",
+  "author": "modified by kailing",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0",
+    "url-parse": "latest"
+  }
+}
